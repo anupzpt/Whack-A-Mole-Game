@@ -19,7 +19,7 @@ This project demonstrates fundamental concepts of GUI creation, event-driven pro
 
 * **Language:** Java
 * **GUI Framework:** Java Swing & AWT
-* **IDE:** Eclipse / IntelliJ IDEA / NetBeans
+* **IDE:** Eclipse / IntelliJ IDEA 
 
 ---
 
