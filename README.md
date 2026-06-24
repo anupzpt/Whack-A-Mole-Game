@@ -1,6 +1,6 @@
 # Whack-a-Mole Game 🔨🐹
 
-A simple, interactive Whack-a-Mole game developed during my **6th Semester** as a practical exercise to master Java desktop development. Moles pop up at random positions on the screen, challenging the player to click them as quickly as possible to rack up points before the timer runs out!
+A simple, interactive Whack-a-Mole game developed during my **6th Semester** as a practical exercise to master Java desktop development. Moles pop up at random positions on the screen, challenging the player to click them as quickly as possible to rack up points before the timer runs out.
 
 This project demonstrates fundamental concepts of GUI creation, event-driven programming, and basic game loops in Java.
 
